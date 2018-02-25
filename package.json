@@ -1,0 +1,26 @@
+{
+  "name": "commit-walkthrough",
+  "version": "1.0.0",
+  "description": "An app for walking through git commits incrementally.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdroadie/commit-walkthrough.git"
+  },
+  "keywords": [
+    "education",
+    "git"
+  ],
+  "author": "Jeremy Neal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdroadie/commit-walkthrough/issues"
+  },
+  "homepage": "https://github.com/sdroadie/commit-walkthrough#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
